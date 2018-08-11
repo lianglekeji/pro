@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.lianglekeji.com/liangleIos.ipa</string>
+					<string>http://app.lianglekeji.com/sdk/liangleIos.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>App()</string>
+				<string>App(副标题)</string>
 				<key>title</key>
 				<string>良乐游戏</string>
 			</dict>
